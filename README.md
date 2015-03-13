@@ -52,7 +52,7 @@ queries the trend:
 For defining a secondary index, you have to define an IndexMap which maps an
 entry to the value you want to index on.
 
-See the "examples" directory for Scala scripts.
+See the "[examples](https://github.com/streamdrill/streamdrill-core/tree/master/examples)" directory for Scala scripts.
 
 LICENSE
 =======
